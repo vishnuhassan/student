@@ -7,3 +7,5 @@ print(a+b)
 print(a+b+c)
 # perform multiplication
 print(a*b)
+# perform divison
+print(a/b)
