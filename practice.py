@@ -5,3 +5,5 @@ d= 4
 print(a)
 print(a+b)
 print(a+b+c)
+# perform multiplication
+print(a*b)
