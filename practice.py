@@ -1,6 +1,6 @@
 a=16
 b = 23
-c = 45
+c = 35
 d= 4
 print(a)
 print(a+b)
