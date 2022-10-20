@@ -9,3 +9,6 @@ print(a+b+c)
 print(a*b)
 # perform divison
 print(a/b)
+
+sum = c/5
+print(sum)
